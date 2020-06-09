@@ -8,3 +8,4 @@ Solution of LeetCoding Challenge June 2020 with JAVA
 * Day 6 - [Queue Reconstruction by Height](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-06-Queue-Reconstruction-by-Height/Solution.java)
 * Day 7 - [Coin Change 2](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-07-Coin-Change-2/Solution.java)
 * Day 8 - [Power of Two](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-08-Power-of-Two/Solution.java)
+* Day 9 - [Is Subsequence](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-09-Is-Subsequence/Solution.java)
