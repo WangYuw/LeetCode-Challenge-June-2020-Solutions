@@ -11,3 +11,4 @@ Solution of LeetCoding Challenge June 2020 with JAVA
 * Day 9 - [Is Subsequence](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-09-Is-Subsequence/Solution.java)
 * Day 10 - [Search Insert Position](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-10-Search-Insert-Position/Solution.java)
 * Day 11 - [Sort Colors](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-11-Sort-Colors/Solution.java)
+* Day 12 - [Insert Delete GetRandom O(1)](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-12-Insert-Delete-GetRandom-O(1)/Solution.java)
