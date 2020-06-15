@@ -12,3 +12,6 @@ Solution of LeetCoding Challenge June 2020 with JAVA
 * Day 10 - [Search Insert Position](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-10-Search-Insert-Position/Solution.java)
 * Day 11 - [Sort Colors](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-11-Sort-Colors/Solution.java)
 * Day 12 - [Insert Delete GetRandom O(1)](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-12-Insert-Delete-GetRandom-O(1)/Solution.java)
+* Day 13 - [Largest Divisible Subset](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-13-Largest-Divisible-Subset/Solution.java)
+* Day 14 - [Cheapest Flights Within K Stops](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-14-Cheapest-Flights-Within-K-Stops/Solution.java)
+* Day 15 - [Search in a Binary Search Tree](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-15-Search-in-a-Binary-Search-Tree/Solution.java)
