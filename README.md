@@ -15,3 +15,6 @@ Solution of LeetCoding Challenge June 2020 with JAVA
 * Day 13 - [Largest Divisible Subset](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-13-Largest-Divisible-Subset/Solution.java)
 * Day 14 - [Cheapest Flights Within K Stops](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-14-Cheapest-Flights-Within-K-Stops/Solution.java)
 * Day 15 - [Search in a Binary Search Tree](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-15-Search-in-a-Binary-Search-Tree/Solution.java)
+* Day 16 - [Validate IP Address](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-16-Validate-IP-Address/Solution.java)
+* Day 17 - [Surrounded Regions](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-17-Surrounded-Regions/Solution.java)
+* Day 18 - [H-Index II](https://github.com/WangYuw/LeetCode-Challenge-June-2020-Solutions/blob/master/Day-18-H-Index-II/Solution.java)
